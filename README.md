@@ -1,2 +1,2 @@
 # skills-copilot-codespaces-vscode
-My clone repository
+My clone first repository
